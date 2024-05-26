@@ -1,0 +1,27 @@
+# go-chainid
+
+Package **chainid** implements **Chain ID** (**chain_id** / **ChainID**) (as per [ERC-155](https://eips.ethereum.org/EIPS/eip-155)), for the Go programming language.
+
+## Documention
+
+Online documentation, which includes examples, can be found at: http://godoc.org/github.com/reiver/go-chainid
+
+[![GoDoc](https://godoc.org/github.com/reiver/go-chainid?status.svg)](https://godoc.org/github.com/reiver/go-chainid)
+
+## Import
+
+To import package **chainid** use `import` code like the follownig:
+```
+import "github.com/reiver/go-chainid"
+```
+
+## Installation
+
+To install package **chainid** do the following:
+```
+GOPROXY=direct go get https://github.com/reiver/go-chainid
+```
+
+## Author
+
+Package **chainid** was written by [Charles Iliya Krempeaux](http://reiver.link)
