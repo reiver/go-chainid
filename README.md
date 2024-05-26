@@ -1,6 +1,10 @@
 # go-chainid
 
-Package **chainid** implements **Chain ID** (**chain_id** / **ChainID**) (as per [ERC-155](https://eips.ethereum.org/EIPS/eip-155)), for the Go programming language.
+Package **chainid** provides **Chain IDs** (i.e., **chain-id**s / **chain_id**s / **ChainID**s) (as per [ERC-155](https://eips.ethereum.org/EIPS/eip-155)), for the Go programming language.
+
+The data for the **chain-id**s comes from https://chainid.network/
+
+This package provides those **chain-id**s are **constants**, which are easily usable by programs written in the Go programming language.
 
 ## Documention
 
