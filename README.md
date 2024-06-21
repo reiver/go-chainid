@@ -4,7 +4,7 @@ Package **chainid** provides **Chain IDs** (i.e., **chain-id**s / **chain_id**s 
 
 The data for the **chain-id**s comes from https://chainid.network/
 
-This package provides those **chain-id**s are **constants**, which are easily usable by programs written in the Go programming language.
+This package provides those **chain-id**s as **constants**, which are easily usable by programs written in the Go programming language.
 
 ## Documention
 
