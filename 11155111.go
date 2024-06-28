@@ -1,3 +1,3 @@
 package chainid
 
-const Sepolia = 1
+const Sepolia = 11155111
